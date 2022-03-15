@@ -12,8 +12,8 @@ College of Engineering, Inha University
 
 ## Research Interests
 ***
-* MLP
-* Data mining
+* COP
+* Reinforcement learning
 
 ## Education   
 ***
